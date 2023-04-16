@@ -28,7 +28,7 @@ class AuditTrailMiddleware(MiddlewareMixin):
                 response=response,
                 user=request.user,
                 model=model,
-                event_category="Blog",
+                event_category=model,
                 method=request.method,
                 summary="{} {}".format(request.method, request.path),
             )
