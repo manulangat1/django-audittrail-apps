@@ -2,7 +2,7 @@
 
 ## Desciption
 
-* This is an application that seeks to explain how to set up audit trails in a django application. This is a repo for the blog  [post](https://blog.kipchirchirlangat.com/create-and-use-custom-django-signals-by-building-a-blog-application#heading-2-set-up-a-new-django-project)
+* This is an application that seeks to explain how to set up audit trails in a django application. This is a repo for the blog  [post](https://blog.kipchirchirlangat.com/create-and-use-custom-django-signals-by-building-a-blog-application)
 
 ### Setup instructions
 
